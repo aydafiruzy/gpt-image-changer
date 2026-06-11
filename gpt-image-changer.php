@@ -3,7 +3,7 @@
  * Plugin Name: GPT Image Updater
  * Description: Optimize WooCommerce product image Names and Alt Texts with ChatGPT for better SEO.
  * Version: 2.2.1
- * Author: Mrdotrasti
+ * Author: AydaFirouzy
  * Author URI: https://bondimarketing.au/
  * Text Domain: gpt-image-changer
  * Domain Path: /languages
